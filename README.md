@@ -18,6 +18,7 @@
 📁 В папке:
 - `01_yandex_music_analysis.ipynb` — ноутбук с кодом и анализом  
 - `README.md` — описание проекта и выводы
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/01_yandex_music_analysis/01_yandex_music_analysis.ipynb
 
 ---
 
@@ -30,7 +31,9 @@
 📁 В папке:
 - `02_bank_credit_scoring.ipynb` — ноутбук с кодом и анализом  
 - `README.md` — описание проекта и выводы
-
+- `Ссылка-1` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/02_bank_credit_scoring/02_bank_credit_scoring-1.ipynb
+- `Ссылка-2` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/02_bank_credit_scoring/02_bank_credit_scoring-2.ipynb
+  
 ---
 
 **03_real_estate_price_analysis — Анализ стоимости недвижимости в Санкт-Петербурге**  
@@ -42,7 +45,8 @@
 📁 В папке:
 - `03_real_estate_price_analysis.ipynb` — ноутбук с кодом и аналитикой  
 - `README.md` — описание проекта и основные выводы
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/03_real_estate_price_analysis/03_real_estate_price_analysis-1.ipynb
+  
 ---
 
 **04_gofast_scooter_analysis — Анализ пользователей сервиса аренды самокатов GoFast**  
@@ -54,7 +58,8 @@
 📁 В папке:
 - `04_gofast_scooter_analysis.ipynb` — ноутбук с кодом и анализом  
 - `README.md` — описание проекта и выводы
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/04_gofast_scooter_analysis/04_gofast_scooter_analysis-1.ipynb
+  
 ---
 
 **05_games_sales_analysis — Анализ продаж видеоигр и определение факторов успеха**  
@@ -66,7 +71,8 @@
 📁 В папке:
 - `05_games_sales_analysis.ipynb` — ноутбук с кодом и аналитикой  
 - `README.md` — описание проекта и выводы
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/01_yandex_music_analysis/01_yandex_music_analysis.ipynb
+  
 ---
 
 **06_milk_yield_prediction — Предсказание надоев и вкуса молока для молочного хозяйства**  
@@ -78,7 +84,8 @@
 📁 В папке:
 - `06_milk_yield_prediction-.ipynb` — ноутбук с кодом и анализом  
 - `README.md` — описание проекта и ключевые результаты
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/06_milk_yield_prediction/06_milk_yield_prediction-.ipynb
+  
 ---
 
 **07_customer_retention_model — Персонализированные предложения для интернет-магазина «В один клик»**  
@@ -90,7 +97,8 @@
 📁 В папке:
 - `07_customer_retention_model.ipynb` — ноутбук с кодом и анализом  
 - `README.md` — описание проекта и результаты
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/07_customer_retention_model/07_customer_retention_model.ipynb
+  
 ---
 
 **08_hr_satisfaction_churn — Предсказание удовлетворённости и оттока сотрудников**  
@@ -102,7 +110,8 @@
 📁 В папке:
 - `08_hr_satisfaction_churn.ipynb` — ноутбук с кодом, визуализациями и моделями  
 - `README.md` — описание проекта, результаты и бизнес-контекст
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/08_hr_satisfaction_churn/08_hr_satisfaction_churn.ipynb
+  
 ---
 
 **09_oil_well_location_selection — Выбор региона для бурения нефтяной скважины**  
@@ -114,7 +123,8 @@
 📁 В папке:
 - `09_oil_well_location_selection.ipynb` — ноутбук с кодом и анализом  
 - `README.md` — описание проекта и выводы
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/09_oil_well_location_selection/09_oil_well_location_selection.ipynb
+  
 ---
 
 **10_car_price_prediction — Предсказание рыночной стоимости автомобилей**  
@@ -126,7 +136,8 @@
 📁 В папке:
 - `10_car_price_prediction.ipynb` — ноутбук с кодом и анализом  
 - `README.md` — описание проекта, моделей и результатов
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/10_car_price_prediction/10_car_price_prediction.ipynb
+  
 ---
 
 **11_taxi_order_forecast — Прогнозирование заказов такси по временным рядам**  
@@ -138,7 +149,8 @@
 📁 В папке:
 - `11_taxi_order_forecast.ipynb` — ноутбук с кодом, визуализациями и финальными метриками  
 - `README.md` — описание проекта, бизнес-контекста и результатов
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/11_taxi_order_forecast/11_taxi_order_forecast.ipynb
+  
 ---
 
 **12_wikishop_toxic_comments — Классификация токсичных комментариев для «Викишоп»**  
@@ -150,7 +162,8 @@
 📁 В папке:
 - `12_wikishop_toxic_comments.ipynb` — ноутбук с кодом, визуализациями и моделями  
 - `README.md` — описание проекта, задачи и результаты
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/12_wikishop_toxic_comments/12_wikishop_toxic_comments.ipynb
+  
 ---
 
 **13_computer_vision_model_analysis — Анализ модели классификации изображений (Компьютерное зрение)**  
@@ -162,7 +175,8 @@
 📁 В папке:
 - `13_computer_vision_model_analysis.ipynb` — ноутбук с кодом, визуализациями и анализом  
 - `README.md` — описание проекта, архитектуры модели и результатов
-
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/13_computer_vision_model_analysis/13_computer_vision_model_analysis.ipynb
+  
 ---
 
 **14_telecom_churn_prediction — Прогноз оттока клиентов телеком-оператора «ТелеДом»**  
@@ -174,3 +188,4 @@
 📁 В папке:
 - `14_telecom_churn_prediction.ipynb` — ноутбук с кодом и результатами  
 - `README.md` — описание проекта, бизнес-контекста, моделей и выводов
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/14_telecom_churn_prediction/14_telecom_churn_prediction.ipynb
