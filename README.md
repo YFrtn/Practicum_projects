@@ -71,7 +71,7 @@
 📁 В папке:
 - `05_games_sales_analysis.ipynb` — ноутбук с кодом и аналитикой  
 - `README.md` — описание проекта и выводы
-- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/01_yandex_music_analysis/01_yandex_music_analysis.ipynb
+- `Ссылка` — https://nbviewer.org/github/YFrtn/Practicum_projects/blob/main/05_games_sales_analysis/05_games_sales_analysis.ipynb
   
 ---
 
